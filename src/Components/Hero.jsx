@@ -5,6 +5,7 @@ import Add from "../assets/add.png"
 import Image3 from "../assets/img3.png"
 import Image5 from "../assets/img5.png"
 import Image6 from "../assets/img6.png"
+import Image4 from "../assets/img4.png"
 const Hero = () => {
   return (
     <section className='bg-[#19191B] pb-[80px] pt-[80px]'>
@@ -19,7 +20,7 @@ const Hero = () => {
             <img className='' src={Image} alt="" />
             <img className='absolute bottom-0 right-0' src={Add} alt="" />
             <img className='absolute  top-0 right-0' src={Image3} alt="" />
-            <img className='absolute bottom-0 left-0' src={Image3} alt="" />
+            <img className='absolute bottom-0 left-0' src={Image4} alt="" />
             <div className="relative w-fit mx-auto">
               <img className="items-center mx-auto" src={Image5} alt="" />
 
