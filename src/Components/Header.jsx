@@ -9,7 +9,7 @@ const Header = () => {
       <Container>
         <nav className='flex justify-between items-center py-6 '>
         <div className='flex'>
-         <img src={Logo} alt="" />
+         <img src={Logo} alt="logo" />
          <h2 className='text-[19px] font-bold'>Enver</h2>
         </div>
          <div>

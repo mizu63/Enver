@@ -5,6 +5,7 @@ import Video from './Components/Video'
 import Service from './Components/Service'
 import Project from './Components/Project'
 import Contact from './Components/Contact'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
     <Service/>
     <Project/>
     <Contact/>
+    <Footer/>
     </>
   )
 }
