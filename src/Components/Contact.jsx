@@ -13,7 +13,7 @@ const Contact = () => {
         </h1>
           <button className='text-[13px] font-bold font-Nil py-[3px] px-[27px] bg-[#5454D4] rounded-[3px] mt-8'>Our Services</button>
       </div>
-      <img className='absolute -top-13 right-7' src={Imageadd} alt="" />
+      <img className='absolute -top-13 right-7' src={Imageadd} alt="ge5" />
        <img className='absolute left-0 -bottom-13' src={Imageadd} alt="" />
     
      </div>
